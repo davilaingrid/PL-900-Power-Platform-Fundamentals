@@ -355,81 +355,81 @@ Módulo 0: Introducción al curso
 
 # Módulo 4: Comenzar con Power Automate
 
-![4.1.1](C:\local3\Evidencias\4.1.1.PNG)
+![4.1.1](Evidencias/4.1.1.PNG)
 
-![4.1.3](C:\local3\Evidencias\4.1.3.PNG)
-
-
-
-![4.1.4](C:\local3\Evidencias\4.1.4.PNG)
+![4.1.3](Evidencias/4.1.3.PNG)
 
 
 
-![4.1.5](C:\local3\Evidencias\4.1.5.PNG)
-
-![4.1.6](C:\local3\Evidencias\4.1.6.PNG)
+![4.1.4](Evidencias/4.1.4.PNG)
 
 
 
-![4.1.7](C:\local3\Evidencias\4.1.7.PNG)
+![4.1.5](Evidencias/4.1.5.PNG)
+
+![4.1.6](Evidencias/4.1.6.PNG)
 
 
 
-![4.1.8](C:\local3\Evidencias\4.1.8.PNG)
+![4.1.7](Evidencias/4.1.7.PNG)
 
 
 
-![4.1.9](C:\local3\Evidencias\4.1.9.PNG)
-
-![4.1.10](C:\local3\Evidencias\4.1.10.PNG)
+![4.1.8](Evidencias/4.1.8.PNG)
 
 
 
-![4.1.11](C:\local3\Evidencias\4.1.11.PNG)
+![4.1.9](Evidencias/4.1.9.PNG)
+
+![4.1.10](Evidencias/4.1.10.PNG)
 
 
 
-![4.2.1](C:\local3\Evidencias\4.2.1.PNG)
-
-![4.2.2](C:\local3\Evidencias\4.2.2.PNG)
+![4.1.11](Evidencias/4.1.11.PNG)
 
 
 
-![4.2.3](C:\local3\Evidencias\4.2.3.PNG)
+![4.2.1](Evidencias/4.2.1.PNG)
+
+![4.2.2](Evidencias/4.2.2.PNG)
 
 
 
-![4.2.4](C:\local3\Evidencias\4.2.4.PNG)
-
-![4.2.5](C:\local3\Evidencias\4.2.5.PNG)
+![4.2.3](Evidencias/4.2.3.PNG)
 
 
 
-![4.2.6](C:\local3\Evidencias\4.2.6.PNG)
+![4.2.4](Evidencias/4.2.4.PNG)
+
+![4.2.5](Evidencias/4.2.5.PNG)
 
 
 
-![4.2.7](C:\local3\Evidencias\4.2.7.PNG)
-
-![4.2.8](C:\local3\Evidencias\4.2.8.PNG)
+![4.2.6](Evidencias/4.2.6.PNG)
 
 
 
-![4.2.9](C:\local3\Evidencias\4.2.9.PNG)
+![4.2.7](Evidencias/4.2.7.PNG)
 
-![4.2.10](C:\local3\Evidencias\4.2.10.PNG)
-
-
-
-![4.2.11](C:\local3\Evidencias\4.2.11.PNG)
+![4.2.8](Evidencias/4.2.8.PNG)
 
 
 
-![4.2.12](C:\local3\Evidencias\4.2.12.PNG)
+![4.2.9](Evidencias/4.2.9.PNG)
+
+![4.2.10](Evidencias/4.2.10.PNG)
 
 
 
-![4.2.13](C:\local3\Evidencias\4.2.13.PNG)
+![4.2.11](Evidencias/4.2.11.PNG)
+
+
+
+![4.2.12](Evidencias/4.2.12.PNG)
+
+
+
+![4.2.13](Evidencias/4.2.13.PNG)
 
 
 
@@ -439,85 +439,85 @@ Módulo 0: Introducción al curso
 
 
 
-![5.1.1](C:\local3\Evidencias\5.1.1.PNG)
+![5.1.1](Evidencias/5.1.1.PNG)
 
 
 
-![5.1.2](C:\local3\Evidencias\5.1.2.PNG)
+![5.1.2](Evidencias/5.1.2.PNG)
 
-![5.1.4](C:\local3\Evidencias\5.1.4.PNG)
-
-
-
-![5.1.5](C:\local3\Evidencias\5.1.5.PNG)
+![5.1.4](Evidencias/5.1.4.PNG)
 
 
 
-![5.1.7](C:\local3\Evidencias\5.1.7.PNG)
+![5.1.5](Evidencias/5.1.5.PNG)
 
 
 
-![5.1.9](C:\local3\Evidencias\5.1.9.PNG)
-
-![5.1.10](C:\local3\Evidencias\5.1.10.PNG)
+![5.1.7](Evidencias/5.1.7.PNG)
 
 
 
-![5.1.11](C:\local3\Evidencias\5.1.11.PNG)
+![5.1.9](Evidencias/5.1.9.PNG)
+
+![5.1.10](Evidencias/5.1.10.PNG)
 
 
 
-![5.1.12](C:\local3\Evidencias\5.1.12.PNG)
+![5.1.11](Evidencias/5.1.11.PNG)
 
 
 
-![5.1.13](C:\local3\Evidencias\5.1.13.PNG)
+![5.1.12](Evidencias/5.1.12.PNG)
 
 
 
-![5.1.14](C:\local3\Evidencias\5.1.14.PNG)
+![5.1.13](Evidencias/5.1.13.PNG)
 
 
 
-![5.1.15](C:\local3\Evidencias\5.1.15.PNG)
+![5.1.14](Evidencias/5.1.14.PNG)
 
 
 
-![5.1.16](C:\local3\Evidencias\5.1.16.PNG)
+![5.1.15](Evidencias/5.1.15.PNG)
 
 
 
-![5.1.17](C:\local3\Evidencias\5.1.17.PNG)
+![5.1.16](Evidencias/5.1.16.PNG)
 
 
 
-![5.1.18](C:\local3\Evidencias\5.1.18.PNG)
+![5.1.17](Evidencias/5.1.17.PNG)
 
 
 
-![5.1.19](C:\local3\Evidencias\5.1.19.PNG)
+![5.1.18](Evidencias/5.1.18.PNG)
 
 
 
-![5.1.20](C:\local3\Evidencias\5.1.20.PNG)
+![5.1.19](Evidencias/5.1.19.PNG)
 
 
 
-![5.1.21](C:\local3\Evidencias\5.1.21.PNG)
+![5.1.20](Evidencias/5.1.20.PNG)
 
 
 
-![5.1.22](C:\local3\Evidencias\5.1.22.PNG)
+![5.1.21](Evidencias/5.1.21.PNG)
+
+
+
+![5.1.22](Evidencias/5.1.22.PNG)
 
 
 
 
 
-![5.1.23](C:\local3\Evidencias\5.1.23.PNG)
+![5.1.23](Evidencias/5.1.23.PNG)
 
-![5.1.24](C:\local3\Evidencias\5.1.24.PNG)
+![5.1.24](Evidencias/5.1.24.PNG)
 
 
 
-![5.1.25](C:\local3\Evidencias\5.1.25.PNG)
+![5.1.25](Evidencias/5.1.25.PNG)
 
