@@ -1,25 +1,11 @@
 Módulo 0: Introducción al curso
 =================================
 
-## Laboratorio: Validar un entorno de laboratorio
-
-
-
-## Ejercicio 1: Configuración
-
-### Tarea 1: Adquirir el inquilino de prueba de Power Platform
-
-
-
 ![0.1](Evidencias/0.1.PNG)
 
-### Tarea 2: Crear un entorno
+
 
 ![0.2](Evidencias/0.2.PNG)
-
-
-
-# Ejercicio 2: Aprovisionar un portal de Power Apps
 
 
 
@@ -53,15 +39,11 @@ Módulo 0: Introducción al curso
 
 # Módulo 2: Introducción a Microsoft Dataverse
 
-## Laboratorio: Modelado de datos
-
 
 
 ![2.1](Evidencias/2.1.PNG)
 
 
-
-## Tarea 1: Agregar una tabla existente
 
 ![2.2](Evidencias/2.2.PNG)
 
@@ -75,15 +57,9 @@ Módulo 0: Introducción al curso
 
 
 
-## Tarea 2: Crear la tabla Edificio
-
-
-
 ![2.5](Evidencias/2.5.PNG)
 
 
-
-## Tarea 3: Crear la tabla Visita con columnas
 
 ![2.6](Evidencias/2.6.PNG)
 
@@ -93,25 +69,13 @@ Módulo 0: Introducción al curso
 
 
 
-# Ejercicio 3: Crear Relaciones
-
 ![2.8](Evidencias/2.8.PNG)
-
-
-
-# Ejercicio 4: Importar datos
-
-## Tarea 1: Importar una solución
 
 
 
 ![2.10](Evidencias/2.10.PNG)
 
-
-
-## Tarea 2: Importar datos  
-
-![2.11](Evidencias/2.11.PNG)
+##  ![2.11](Evidencias/2.11.PNG)
 
 
 
@@ -123,8 +87,6 @@ Módulo 0: Introducción al curso
 
 
 
-## Tarea 3: Comprobar la importación de datos
-
 ![2.13](Evidencias/2.13.PNG)
 
 
@@ -134,8 +96,6 @@ Módulo 0: Introducción al curso
 
 
 # Módulo 3: Comience con Power Apps
-
-## Laboratorio: Cómo crear una aplicación de lienzo, parte 1
 
 ![3.1.0](Evidencias/3.1.0.PNG)
 
@@ -211,12 +171,6 @@ Módulo 0: Introducción al curso
 
 
 
-# Módulo 3: Comience con Power Apps
-
-## Laboratorio 2: Cómo crear una aplicación de lienzo,parte2
-
-### 
-
 ![3.2.1](Evidencias/3.2.1.PNG)
 
 
@@ -253,6 +207,8 @@ Módulo 0: Introducción al curso
 
 
 
+
+
 ![3.2.10](Evidencias/3.2.10.PNG)
 
 
@@ -266,6 +222,138 @@ Módulo 0: Introducción al curso
 
 
 ![3.2.13](Evidencias/3.2.13.PNG)
+
+
+
+![3.3.1](Evidencias/3.3.1.PNG)
+
+
+
+![3.3.2](Evidencias/3.3.2.PNG)
+
+![3.3.2.1](Evidencias/3.3.2.1.PNG)
+
+
+
+![3.3.2.2](Evidencias/3.3.2.2.PNG)
+
+
+
+![3.3.4](Evidencias/3.3.4.PNG)
+
+
+
+![3.3.5](Evidencias/3.3.5.PNG)
+
+![3.3.6](Evidencias/3.3.6.PNG)
+
+![3.3.7](Evidencias/3.3.7.PNG)
+
+![3.3.8](Evidencias/3.3.8.PNG)
+
+
+
+![3.3.9](Evidencias/3.3.9.PNG)
+
+
+
+![3.3.10](Evidencias/3.3.10.PNG)
+
+![3.3.11](Evidencias/3.3.11.PNG)
+
+![3.3.13](Evidencias/3.3.13.PNG)
+
+![3.3.14](Evidencias/3.3.14.PNG)
+
+
+
+![3.3.15](Evidencias/3.3.15.PNG)
+
+![3.3.16](Evidencias/3.3.16.PNG)
+
+![3.3.17](Evidencias/3.3.17.PNG)
+
+![3.3.19](Evidencias/3.3.19.PNG)
+
+![3.3.20](Evidencias/3.3.20.PNG)
+
+![3.3.21](Evidencias/3.3.21.PNG)
+
+
+
+![3.3.22](Evidencias/3.3.22.PNG)
+
+![3.3.23](Evidencias/3.3.23.PNG)
+
+![3.3.24](Evidencias/3.3.24.PNG)
+
+
+
+![3.3.25](Evidencias/3.3.25.PNG)
+
+
+
+![3.3.26](Evidencias/3.3.26.PNG)
+
+
+
+![3.3.27](Evidencias/3.3.27.PNG)
+
+![3.3.28](Evidencias/3.3.28.PNG)
+
+![3.3.29](Evidencias/3.3.29.PNG)
+
+![3.3.30](Evidencias/3.3.30.PNG)
+
+![3.3.31](Evidencias/3.3.31.PNG)
+
+![3.3.32](Evidencias/3.3.32.PNG)
+
+![3.3.33](Evidencias/3.3.33.PNG)
+
+![3.3.34](Evidencias/3.3.34.PNG)
+
+![3.3.35](Evidencias/3.3.35.PNG)
+
+
+
+![3.3.36](Evidencias/3.3.36.PNG)
+
+
+
+![3.3.37](Evidencias/3.3.37.PNG)
+
+![3.3.38](Evidencias/3.3.38.PNG)
+
+![3.3.39](Evidencias/3.3.39.PNG)
+
+![3.3.40](Evidencias/3.3.40.PNG)
+
+
+
+![3.3.41](Evidencias/3.3.41.PNG)
+
+
+
+![3.3.42](Evidencias/3.3.42.PNG)
+
+![3.3.43](Evidencias/3.3.43.PNG)
+
+![3.3.44](Evidencias/3.3.44.PNG)
+
+
+
+![3.3.45](Evidencias/3.3.45.PNG)
+
+![3.3.46](Evidencias/3.3.46.PNG)
+
+![3.3.47](Evidencias/3.3.47.PNG)
+
+
+
+# Módulo 4: Comenzar con Power Automate
+
+## 
 
 
 
