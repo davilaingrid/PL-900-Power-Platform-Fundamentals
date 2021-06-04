@@ -7,6 +7,10 @@ Módulo 0: Introducción al curso
 
 
 
+![0.1.1](Evidencias/0.1.1.PNG)
+
+# Aprovisionar un portal de Power Apps
+
 ![0.2](Evidencias/0.2.PNG)
 
 
@@ -75,9 +79,15 @@ Módulo 0: Introducción al curso
 
 
 
+# Importar datos
+
+
+
 ![2.10](Evidencias/2.10.PNG)
 
-##  ![2.11](Evidencias/2.11.PNG)
+
+
+![2.11](Evidencias/2.11.PNG)
 
 
 
@@ -173,6 +183,10 @@ Módulo 0: Introducción al curso
 
 
 
+# Crear una aplicación de lienzo de seguridad
+
+
+
 ![3.2.1](Evidencias/3.2.1.PNG)
 
 
@@ -227,6 +241,10 @@ Módulo 0: Introducción al curso
 
 
 
+#   Personalizar vistas y formularios
+
+
+
 ![3.3.1](Evidencias/3.3.1.PNG)
 
 
@@ -245,9 +263,9 @@ Módulo 0: Introducción al curso
 
 
 
-![3.3.5](Evidencias/3.3.5.PNG)
-
 ![3.3.6](Evidencias/3.3.6.PNG)
+
+
 
 ![3.3.7](Evidencias/3.3.7.PNG)
 
@@ -353,6 +371,10 @@ Módulo 0: Introducción al curso
 
 
 
+# Crear la Página web de portal
+
+Nota: Al terner problemas para crear el provisionamiento del portal en el entorno de pruebas. Lo cree en el entorno principal. Y agregué en la tabla de contactos unos datos, para poder reallizar el ejercicio del Portal.
+
 
 
 ![3.4.1](Evidencias/3.4.1.PNG)
@@ -385,6 +407,12 @@ Módulo 0: Introducción al curso
 
 # Módulo 4: Comenzar con Power Automate
 
+
+
+# Crear un flujo de notificación de visita
+
+
+
 ![4.1.1](Evidencias/4.1.1.PNG)
 
 ![4.1.3](Evidencias/4.1.3.PNG)
@@ -416,6 +444,10 @@ Módulo 0: Introducción al curso
 
 
 ![4.1.11](Evidencias/4.1.11.PNG)
+
+
+
+# Crear un flujo de barrido de seguridad
 
 
 
@@ -465,7 +497,17 @@ Módulo 0: Introducción al curso
 
 # Módulo 5: Comience con Power BI
 
+
+
+## Instalar Power BI Desktop/Preparar el servicio Power BI
+
+
+
 ![5.1.0](C:\cursoAzure\PowerBI\5.1.0.PNG)
+
+
+
+## Tarea 2: Preparar los datos
 
 
 
@@ -513,6 +555,10 @@ Módulo 0: Introducción al curso
 
 
 
+## Crear gráficos y visualizaciones de tiempo
+
+
+
 ![5.1.16](Evidencias/5.1.16.PNG)
 
 
@@ -525,7 +571,15 @@ Módulo 0: Introducción al curso
 
 
 
+# Crear un panel de control de Power BI
+
+
+
 ![5.1.19](Evidencias/5.1.19.PNG)
+
+
+
+# Agregar visualizaciones con lenguaje natural
 
 
 
@@ -545,7 +599,17 @@ Módulo 0: Introducción al curso
 
 ![5.1.23](Evidencias/5.1.23.PNG)
 
+
+
+# Crear una vista de teléfono móvil y compartir un informe con un código QR
+
+
+
 ![5.1.24](Evidencias/5.1.24.PNG)
+
+
+
+
 
 
 
@@ -554,6 +618,12 @@ Módulo 0: Introducción al curso
 
 
 # Módulo 6: Introducción a Power Virtual Agents
+
+
+
+## Registrarse en PVA y crear un nuevo bot
+
+
 
 ![6.1](Evidencias/6.1.PNG)
 
@@ -564,6 +634,10 @@ Módulo 0: Introducción al curso
 
 
 ![6.3](Evidencias/6.3.PNG)
+
+
+
+# Crear temas
 
 
 
@@ -595,6 +669,10 @@ Módulo 0: Introducción al curso
 
 
 
+# Probar los temas
+
+
+
 ![6.12](Evidencias/6.12.PNG)
 
 
@@ -604,6 +682,10 @@ Módulo 0: Introducción al curso
 
 
 ![6.14](Evidencias/6.14.PNG)
+
+
+
+# Cambiar el saludo
 
 
 
@@ -620,6 +702,10 @@ Módulo 0: Introducción al curso
 
 
 ![6.18](Evidencias/6.18.PNG)
+
+
+
+# Publicar el bot
 
 
 
