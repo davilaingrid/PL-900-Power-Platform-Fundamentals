@@ -353,6 +353,36 @@ Módulo 0: Introducción al curso
 
 
 
+
+
+![3.4.1](Evidencias/3.4.1.PNG)
+
+
+
+![3.4.2](Evidencias/3.4.2.PNG)
+
+
+
+
+
+![3.4.3](Evidencias/3.4.3.PNG)
+
+
+
+![3.4.4](Evidencias/3.4.4.PNG)
+
+
+
+![3.4.5](Evidencias/3.4.5.PNG)
+
+
+
+![3.4.6](Evidencias/3.4.6.PNG)
+
+
+
+
+
 # Módulo 4: Comenzar con Power Automate
 
 ![4.1.1](Evidencias/4.1.1.PNG)
